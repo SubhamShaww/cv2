@@ -89,7 +89,7 @@ p{
 .cloud-bottom{
     position: absolute;
     left: 200px;
-    bottom: 300px;
+    bottom: 280px;
 }
 
 .contact-message{
@@ -124,6 +124,10 @@ p{
 
 .middle-container{
     margin: 100px 0;
+}
+
+.mountain-img{
+    width: 480px;
 }
 
 .painting-img{
